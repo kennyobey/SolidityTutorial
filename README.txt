@@ -17,5 +17,5 @@ To run a script, right click on file name in the file explorer and click 'Run'. 
 
 Output from script will appear in remix terminal.
 
-Contact Address
+Contract Address
 https://rinkeby.etherscan.io/address/0x3eee9796ae87686d85a500c8e1a475914acbe4d9
